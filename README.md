@@ -1,8 +1,8 @@
-# Arduino 
+# 👻 Heya Welcome!
 
 This repository contains some mini arduino projects that don't deserve their own repository 🙄!
 
-# Projects
+# 🧠 Projects
 
 1. [Anti Drunk Driving System](./Anti-Drunk-Driving-System/) - A system that detects if the driver is drunk and alerts him/her to stop the car.
 
