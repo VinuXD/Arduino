@@ -4,7 +4,9 @@ This repository contains some mini arduino projects that don't deserve their own
 
 # Projects
 
-1. [Anti Drunk Driving System](./CarDrunkAlert/)
+1. [Anti Drunk Driving System](./Anti-Drunk-Driving-System/) - A system that detects if the driver is drunk and alerts him/her to stop the car.
+
+---
 
 ## 👬 Contributions
 
